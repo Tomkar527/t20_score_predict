@@ -6,4 +6,5 @@ scipy
 scikit-learn==1.7.2
 pandas
 numpy
-gunicorn  cleat
+gunicorn 
+xgboost
